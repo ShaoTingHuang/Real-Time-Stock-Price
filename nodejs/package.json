@@ -1,0 +1,21 @@
+{
+  "name": "stock-analyzer",
+  "version": "1.0.0",
+  "description": "big-data project",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "minimist": "^1.2.0",
+    "redis": "^2.7.1",
+    "smoothie": "^1.29.1",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

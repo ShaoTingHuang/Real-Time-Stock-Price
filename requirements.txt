@@ -1,0 +1,16 @@
+APScheduler==3.3.1
+cassandra-driver==3.10
+click==6.7
+Flask==0.12.2
+funcsigs==1.0.2
+futures==3.1.1
+googlefinance==0.7
+itsdangerous==0.24
+Jinja2==2.9.6
+kafka-python==1.3.3
+MarkupSafe==1.0
+pytz==2017.2
+redis==2.10.5
+six==1.10.0
+tzlocal==1.4
+Werkzeug==0.12.2
